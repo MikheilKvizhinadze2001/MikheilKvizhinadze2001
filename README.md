@@ -1,6 +1,9 @@
 ### Hi there 👋
-I am an master's student in electornics engineering, passionate about AI & Machine Learning.
+I am an engineering student, passionate about AI & Machine Learning. Eager to Collaborate on Innovative Projects
 
+- 🌱 Seeking Opportunities to Learn & Grow
+- 📫 How to reach me: mikheilkvizhinadze@gmail.com
+  
 Featured projects:
 - School Management system: https://github.com/MikheilKvizhinadze2001/School_managament_system
 - IBM Data Science Capstone Project: https://github.com/MikheilKvizhinadze2001/Applied_Data_Science_Capstone_IBM
