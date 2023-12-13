@@ -1,5 +1,10 @@
 ### Hi there 👋
+I am an master's student in electornics engineering, passionate about AI & Machine Learning.
 
+Featured projects:
+- School Management system: https://github.com/MikheilKvizhinadze2001/School_managament_system
+- IBM Data Science Capstone Project: https://github.com/MikheilKvizhinadze2001/Applied_Data_Science_Capstone_IBM
+- Undergraduate capstone project: "Robotic Hand": https://drive.google.com/file/d/1vnqBY-uDTHYpdSb7ConDcQGkUEdVZaF3/view?usp=drive_link
 <!--
 **MikheilKvizhinadze2001/MikheilKvizhinadze2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
