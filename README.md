@@ -3,6 +3,7 @@ I am an engineering student, passionate about AI & Machine Learning. Eager to Co
 
 - 🌱 Seeking Opportunities to Learn & Grow
 - 📫 How to reach me: mikheilkvizhinadze@gmail.com
+- 📫 LinkedIn link: https://www.linkedin.com/in/mikheil-kvizhinadze-49638a200/
   
 Featured projects:
 - School Management system: https://github.com/MikheilKvizhinadze2001/School_managament_system
