@@ -4,6 +4,7 @@ I am an engineering student, passionate about AI & Machine Learning. Eager to Co
 
   
 Featured projects:
+- Rice Type Classification: https://github.com/MikheilKvizhinadze2001/Rice_classification
 - Image Classification: https://github.com/MikheilKvizhinadze2001/Cat_Dog_Classification
 - School Management system: https://github.com/MikheilKvizhinadze2001/School_managament_system
 - IBM Data Science Capstone Project: https://github.com/MikheilKvizhinadze2001/Applied_Data_Science_Capstone_IBM
