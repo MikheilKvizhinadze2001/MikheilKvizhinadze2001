@@ -4,6 +4,7 @@ I am an engineering student, passionate about AI & Machine Learning. Eager to Co
 
   
 Featured projects:
+- Ensemble Learning: https://github.com/MikheilKvizhinadze2001/Ensemble_Learning
 - K-means Clustering: https://github.com/MikheilKvizhinadze2001/K-Means_Clustering
 - Rice Type Classification: https://github.com/MikheilKvizhinadze2001/Rice_classification
 - Image Classification: https://github.com/MikheilKvizhinadze2001/Cat_Dog_Classification
