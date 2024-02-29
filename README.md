@@ -8,6 +8,7 @@ Featured projects:
 - K-means Clustering: https://github.com/MikheilKvizhinadze2001/K-Means_Clustering
 - Rice Type Classification: https://github.com/MikheilKvizhinadze2001/Rice_classification
 - Image Classification: https://github.com/MikheilKvizhinadze2001/Cat_Dog_Classification
+- Travelin Salesman Problem: https://github.com/MikheilKvizhinadze2001/traveling_salesman_problem
 - School Management system: https://github.com/MikheilKvizhinadze2001/School_managament_system
 - IBM Data Science Capstone Project: https://github.com/MikheilKvizhinadze2001/Applied_Data_Science_Capstone_IBM
 - Undergraduate capstone project: "Robotic Hand": https://drive.google.com/file/d/1vnqBY-uDTHYpdSb7ConDcQGkUEdVZaF3/view?usp=drive_link
