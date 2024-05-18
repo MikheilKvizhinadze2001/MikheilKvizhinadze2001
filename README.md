@@ -4,11 +4,8 @@ I am an engineering student, passionate about AI & Machine Learning. Eager to Co
 
   
 Featured projects:
-- Ensemble Learning: https://github.com/MikheilKvizhinadze2001/Ensemble_Learning
+- Machine learning playground and tutorials https://github.com/MikheilKvizhinadze2001/ML_playground
 - Genetic Algorithm: https://github.com/MikheilKvizhinadze2001/Genetic_Algorithm
-- K-means Clustering: https://github.com/MikheilKvizhinadze2001/K-Means_Clustering
-- Rice Type Classification: https://github.com/MikheilKvizhinadze2001/Rice_classification
-- Image Classification: https://github.com/MikheilKvizhinadze2001/Cat_Dog_Classification
 - Some C++ projects: https://github.com/MikheilKvizhinadze2001/Projects_Cpp
 - IBM Data Science Capstone Project: https://github.com/MikheilKvizhinadze2001/Applied_Data_Science_Capstone_IBM
 - Undergraduate capstone project: "Robotic Hand": https://drive.google.com/file/d/1vnqBY-uDTHYpdSb7ConDcQGkUEdVZaF3/view?usp=drive_link
